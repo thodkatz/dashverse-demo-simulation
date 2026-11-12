@@ -1,0 +1,18 @@
+{
+  "indicators": [
+    {"name": "software_has_license", "plugin": "RSFC", "@id": "https://w3id.org/everse/i/indicators/software_has_license"},
+    {"name": "software_has_citation", "plugin": "RSFC", "@id": "https://w3id.org/everse/i/indicators/software_has_citation"},
+    {"name": "software_has_documentation", "plugin": "RSFC", "@id": "https://w3id.org/everse/i/indicators/software_has_documentation"},
+    {"name": "descriptive_metadata", "plugin": "RSFC", "@id": "https://w3id.org/everse/i/indicators/descriptive_metadata"},
+    {"name": "software_has_tests", "plugin": "RSFC", "@id": "https://w3id.org/everse/i/indicators/software_has_tests"},
+    {"name": "requirements_specified", "plugin": "RSFC", "@id": "https://w3id.org/everse/i/indicators/requirements_specified"},
+    {"name": "versioning_standards_use", "plugin": "RSFC", "@id": "https://w3id.org/everse/i/indicators/versioning_standards_use"},
+    {"name": "persistent_and_unique_identifier", "plugin": "RSFC", "@id": "https://w3id.org/everse/i/indicators/persistent_and_unique_identifier"},
+    {"name": "archived_in_software_heritage", "plugin": "RSFC", "@id": "https://w3id.org/everse/i/indicators/archived_in_software_heritage"},
+    {"name": "has_active_communication_channels", "plugin": "RSFC", "@id": "https://w3id.org/everse/i/indicators/has_active_communication_channels"},
+    {"name": "has_citation", "plugin": "CFFConvert", "@id": "https://w3id.org/everse/i/indicators/software_has_citation"},
+    {"name": "no_critical_vulnerability", "plugin": "OpenSSFScorecard", "@id": "https://w3id.org/everse/i/indicators/no_critical_vulnerability"},
+    {"name": "cyclomatic_complexity_ok", "plugin": "PySCN", "@id": "https://w3id.org/everse/i/indicators/cyclomatic_complexity_ok"},
+    {"name": "code_duplication_ok", "plugin": "PySCN", "@id": "https://w3id.org/everse/i/indicators/code_duplication_ok"}
+  ]
+}
