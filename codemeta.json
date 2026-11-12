@@ -1,0 +1,11 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "heatsim",
+  "description": "Finite-difference simulation of 2D heat diffusion on a rectangular plate.",
+  "version": "0.3.0",
+  "license": "https://spdx.org/licenses/GPL-3.0-or-later",
+  "codeRepository": "https://github.com/thodkatz/dashverse-demo-simulation",
+  "programmingLanguage": "Python",
+  "author": [{"@type": "Person", "givenName": "Bob", "familyName": "Demo"}]
+}
